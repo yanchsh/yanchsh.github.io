@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 小智談數智</title>
+    <link>https://yanchsh.github.io/categories/</link>
+    <description>Recent content in Categories on 小智談數智</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 01 Feb 2022 10:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://yanchsh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>數位行銷</title>
+      <link>https://yanchsh.github.io/categories/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/</link>
+      <pubDate>Tue, 01 Feb 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/categories/%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>關於我</title>
+      <link>https://yanchsh.github.io/categories/%E9%97%9C%E6%96%BC%E6%88%91/</link>
+      <pubDate>Wed, 05 Jan 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/categories/%E9%97%9C%E6%96%BC%E6%88%91/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
