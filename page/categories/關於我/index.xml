@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>關於我 on 小智談數智</title>
+    <link>https://yanchsh.github.io/categories/%E9%97%9C%E6%96%BC%E6%88%91/</link>
+    <description>Recent content in 關於我 on 小智談數智</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 05 Jan 2022 10:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://yanchsh.github.io/categories/%E9%97%9C%E6%96%BC%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>喜歡的華語歌</title>
+      <link>https://yanchsh.github.io/blog/music/</link>
+      <pubDate>Wed, 05 Jan 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/blog/music/</guid>
+      <description>分享一些我自己覺得還不錯的歌曲 XD
+貪心-張震嶽   生命有一種絕對-曲婉婷   逃亡-孫燕姿   </description>
+    </item>
+    
+    <item>
+      <title>工作經歷</title>
+      <link>https://yanchsh.github.io/blog/work/</link>
+      <pubDate>Tue, 04 Jan 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/blog/work/</guid>
+      <description>高中畢業後我覺得讀書不是我當時的人生規劃，因此不打算繼續升學，決定先在家裡開的安全帽店幫忙。過了一段時間之後，自己想通了一些事，於是便開始展開重考人生。
+上了大學在台北偉文文教機構工作，職稱是工讀生，這份工作一做就是 4 年。
+大學畢業後我先進入美商寶蘊凌科網路科技有限公司台灣分公司(電腦軟體服務業)，從事 AI 標註方面的工作，這個工作讓我了解到要開發 AI 產品，前期是需要人工去做標註的以及如何標註才能讓模型效能更好，因此我比一般人更了解有關 AI 的開發流程，這份工作是短期性質，因此只做了一個月。</description>
+    </item>
+    
+    <item>
+      <title>求學歷程</title>
+      <link>https://yanchsh.github.io/blog/education/</link>
+      <pubDate>Mon, 03 Jan 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/blog/education/</guid>
+      <description>我是楊智勝，來自宜蘭。高中畢業於國立宜蘭高級中學，大學畢業於長庚大學電機工程學系(系統與晶片設計組)，研究所就讀清華大學工程與系統暨研究所(電子儀控組)，研究領域為生物辨識系統。</description>
+    </item>
+    
+    <item>
+      <title>家庭背景</title>
+      <link>https://yanchsh.github.io/blog/family/</link>
+      <pubDate>Sun, 02 Jan 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/blog/family/</guid>
+      <description>我家有三個兄弟，我排行老二。家裡是做安全帽方面的生意，我從小就常常幫忙家裡顧店，因此懂得一些做生意的技巧。
+父母平時工作忙碌，所以我從很小的時候就習慣自己處理許多事情，因此我覺得我比一般的同學還要來的獨立也比較有自己的想法。</description>
+    </item>
+    
+    <item>
+      <title>自我介紹</title>
+      <link>https://yanchsh.github.io/blog/me/</link>
+      <pubDate>Sat, 01 Jan 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/blog/me/</guid>
+      <description>我叫楊智勝，大家都叫我小智。我是一個偏外向的人，喜歡說話、喜歡跟人互動，對許多事情會用比較樂觀的態度去面對。
+平常的休閒娛樂是去看夕陽，每當看到美美的夕陽，就覺得生活的壓力少了很多了。我的生活常常需要美食跟手搖飲料，因為我覺得好吃好喝的食物可以舒緩壓力。
+我的興趣是行銷。為什麼會喜歡行銷呢？因為我覺得能夠把好的東西推廣給大眾知道是很厲害的一件事，有空時會聽一些有關商業的 Podcast 來充實自己的商業思維。</description>
+    </item>
+    
+  </channel>
+</rss>
