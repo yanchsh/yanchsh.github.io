@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://yanchsh.github.io/blog/</loc>
-    <lastmod>2022-02-01T10:07:47+08:00</lastmod>
+    <lastmod>2022-04-01T10:07:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://yanchsh.github.io/categories/</loc>
-    <lastmod>2022-02-01T10:07:47+08:00</lastmod>
+    <lastmod>2022-04-01T10:07:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yanchsh.github.io/categories/%E4%BA%BA%E7%94%9F%E8%AB%87/</loc>
+    <lastmod>2022-04-01T10:07:47+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://yanchsh.github.io/</loc>
-    <lastmod>2022-02-01T10:07:47+08:00</lastmod>
+    <lastmod>2022-04-01T10:07:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yanchsh.github.io/blog/life1/</loc>
+    <lastmod>2022-04-01T10:07:47+08:00</lastmod>
   </url>
   
   <url>
@@ -74,14 +84,6 @@
   
   <url>
     <loc>https://yanchsh.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yanchsh.github.io/categories/%E4%BA%BA%E7%94%9F%E8%AB%87/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yanchsh.github.io/blog/life1/</loc>
   </url>
   
 </urlset>
