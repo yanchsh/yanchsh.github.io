@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>求學歷程 on 小智談數智</title>
+    <link>https://yanchsh.github.io/tags/%E6%B1%82%E5%AD%B8%E6%AD%B7%E7%A8%8B/</link>
+    <description>Recent content in 求學歷程 on 小智談數智</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 03 Jan 2022 10:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://yanchsh.github.io/tags/%E6%B1%82%E5%AD%B8%E6%AD%B7%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>求學歷程</title>
+      <link>https://yanchsh.github.io/blog/education/</link>
+      <pubDate>Mon, 03 Jan 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/blog/education/</guid>
+      <description>我是楊智勝，來自宜蘭。高中畢業於國立宜蘭高級中學，大學畢業於長庚大學電機工程學系(系統與晶片設計組)，研究所就讀清華大學工程與系統暨研究所(電子儀控組)，研究領域為生物辨識演算法。</description>
+    </item>
+    
+  </channel>
+</rss>

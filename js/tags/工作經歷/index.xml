@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工作經歷 on 小智談數智</title>
+    <link>https://yanchsh.github.io/tags/%E5%B7%A5%E4%BD%9C%E7%B6%93%E6%AD%B7/</link>
+    <description>Recent content in 工作經歷 on 小智談數智</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 04 Jan 2022 10:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://yanchsh.github.io/tags/%E5%B7%A5%E4%BD%9C%E7%B6%93%E6%AD%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>工作經歷</title>
+      <link>https://yanchsh.github.io/blog/work/</link>
+      <pubDate>Tue, 04 Jan 2022 10:07:47 +0800</pubDate>
+      
+      <guid>https://yanchsh.github.io/blog/work/</guid>
+      <description>大學期間在台北偉文文教機構打工，職稱是工讀生，工作內容是從事一些行政相關事物。
+大學畢業後我並沒有直接讀研究所，先進入美商寶蘊凌科網路科技有限公司台灣分公司(電腦軟體服務業)，工作內容是從事 AI 標註，這個工作讓我了解到要開發 AI 產品，前期是需要人工去做標註的以及如何標註才能讓模型效能更好，因此我比一般人更了解有關 AI 的開發流程。此工作是短期派遣性質，只做一個月。
+後來進入力智電子股份有限公司(IC 設計相關業)，職稱是助理工程師(可靠度工程師)，工作內容是執行有關電子元件(IC、MOS)方面的測試，這個工作讓我學到了操作 ATE 機台以及有關晶片測試的經驗。</description>
+    </item>
+    
+  </channel>
+</rss>
